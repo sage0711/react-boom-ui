@@ -1,0 +1,26 @@
+.introducing-boom {
+    width: 100%;
+    background-color: transparent;
+    padding: 50px;
+}
+
+.introducing-boom .text-area {
+    margin-top: 150px;
+    margin-left: 150px;
+    width: 600px;
+    display: inline-block;
+}
+
+.introducing-boom .text-area .title {
+    font-size: 50px;
+    font-family: "badabb";
+    color: #00FF04;
+}
+
+.introducing-boom .text-area .description {
+    color: #00FF04;
+}
+
+.introducing-boom .intro-boom-img {
+    width: 40%;
+}

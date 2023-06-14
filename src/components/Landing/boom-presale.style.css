@@ -1,0 +1,29 @@
+.boom-introducing {
+    width: 100%;
+    height: auto;
+    background-color: #00FF04;
+    color: #062270;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.boom-introducing .title {
+    font-size: 50px;
+    font-family: 'badabb';
+    margin: 50px;
+}
+
+.boom-introducing .description {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.boom-introducing .description .part {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.boom-introducing .description .part .item-tag {
+    font-size: 50px;
+}

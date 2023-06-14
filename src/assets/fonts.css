@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "badabb";
+    src: url('BADABB__.TTF');
+};
+
+@font-face {
+    font-family: "beaker";
+    src: url('./101Beaker-KJPe.ttf');
+}
+
+@font-face {
+    font-family: "roboto_black";
+    src: url('./roboto/Roboto-Black.ttf');
+}

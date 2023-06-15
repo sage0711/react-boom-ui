@@ -1,6 +1,9 @@
 .landing-splash {
-    margin-top: 150px;
+    
     height: 800px;
+    width: 1200px;
+    margin: auto;
+    margin-top: 150px;
 }
 
 .splash-image-container  {
@@ -24,8 +27,10 @@
 }
 
 .splash-nav>.btn-grp {
+    margin: auto;
     padding: 100px;
     display: block;
+    width: 300px;
 }
 
 .splash-nav button {
